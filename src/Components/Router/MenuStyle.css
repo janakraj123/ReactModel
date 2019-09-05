@@ -1,0 +1,52 @@
+
+*{
+    margin: 0;padding: 0
+}
+ /* .Menustyle ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333; 
+ }
+     
+
+.Menustyle ul li{
+    display: block;
+    color:red;   
+    float: left; 
+    text-align: center;
+    padding: 19px 40px;
+    text-transform: uppercase;
+    text-decoration: none;
+    list-style: none;
+   
+} 
+
+
+.Menustyle ul li:hover{
+    background-color: green
+} */
+/* .active{
+    background-color: rebeccapurple
+} */
+.Menustyle{
+    background-color: #333; 
+    height: 50px;
+    padding-top: 15px
+}
+a {
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+    font-size: 24px;
+    text-transform: uppercase
+}
+a:hover{
+    background-color: green
+}
+.active{
+   
+    background-color: rebeccapurple
+}
